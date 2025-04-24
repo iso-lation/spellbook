@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Alohomora",
+      "description": "Unlocks doors and windows",
+      "effect": "Unlocking Charm",
+      "level": "Beginner"
+    },
+    {
+      "name": "Lumos",
+      "description": "Creates light at the tip of the wand",
+      "effect": "Illumination",
+      "level": "Beginner"
+    },
+    {
+      "name": "Expelliarmus",
+      "description": "Disarms your opponent",
+      "effect": "Disarming Charm",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Accio",
+      "description": "Summons an object from a distance",
+      "effect": "Summoning Charm",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Avada Kedavra",
+      "description": "Kills the target instantly",
+      "effect": "Killing Curse",
+      "level": "Forbidden"
+    }
+  ]
+  
