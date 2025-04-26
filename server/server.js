@@ -15,6 +15,7 @@ app.post('/api/spells', (req, res) => {
     const spells = JSON.parse(data)
     const newSpell = req.body
     spells.push(newSpell)
+    fs.writeFileSync('spells.json', JSON.stringify(spells, 'utf-8'))
     res.json(spells)        
 })
 
