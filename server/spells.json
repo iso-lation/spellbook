@@ -28,6 +28,69 @@
       "description": "Kills the target instantly",
       "effect": "Killing Curse",
       "level": "Forbidden"
+    },
+    {
+      "name": "Reparo",
+      "description": "Repairs broken objects instantly.",
+      "effect": "Mending Charm",
+      "level": "Beginner"
+    },
+    {
+      "name": "Rictusempra",
+      "description": "Causes a tickling sensation that disarms opponents.",
+      "effect": "Tickling Charm",
+      "level": "Beginner"
+    },
+    {
+      "name": "Silencio",
+      "description": "Silences a target, preventing them from speaking.",
+      "effect": "Silencing Charm",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Confundo",
+      "description": "Confuses and disorients the target.",
+      "effect": "Confundus Charm",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Protego Maxima",
+      "description": "Creates a powerful magical barrier.",
+      "effect": "Shield Charm",
+      "level": "Advanced"
+    },
+    {
+      "name": "Sectumsempra",
+      "description": "Inflicts deep, magically induced wounds on the target.",
+      "effect": "Dark Spell",
+      "level": "Forbidden"
+    },
+    {
+      "name": "Imperio",
+      "description": "Controls a person's actions completely.",
+      "effect": "Unforgivable Curse",
+      "level": "Forbidden"
+    },
+    {
+      "name": "Aparecium",
+      "description": "Reveals invisible ink or hidden messages.",
+      "effect": "Revealing Charm",
+      "level": "Beginner"
+    },
+    {
+      "name": "Obliviate",
+      "description": "Erases specific memories from the target's mind.",
+      "effect": "Memory Charm",
+      "level": "Advanced"
+    },
+    {
+      "name": "Fiendfyre",
+      "description": "Unleashes cursed fire that consumes nearly anything.",
+      "effect": "Cursed Fire",
+      "level": "Forbidden"
     }
   ]
+    
+
+
   
